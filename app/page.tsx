@@ -6,6 +6,11 @@ function page() {
       
       <h1>Welcome to the Home Page</h1>
       <p> TThis is just a demo repo Im implementing ci cd </p>
+      <p>
+
+        Lessss goo done implementation successfully
+        
+      </p>
     </div>
   )
 }
