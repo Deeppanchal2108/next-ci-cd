@@ -5,7 +5,7 @@ function page() {
     <div>
       
       <h1>Welcome to the Home Page</h1>
-      <p> TThis is just a demo repo I'm implementing ci cd </p>
+      <p> TThis is just a demo repo Im implementing ci cd </p>
     </div>
   )
 }
